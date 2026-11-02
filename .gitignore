@@ -1,0 +1,18 @@
+# Credenciales y secretos
+.env
+
+# Caché de tokens y base de datos local
+data/*.json
+data/*.db
+data/*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editores
+.vscode/
+.idea/
